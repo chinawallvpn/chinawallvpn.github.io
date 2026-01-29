@@ -75,11 +75,11 @@ StrongVPN的客户端软件也非常简单易用。无论是Windows、MacOS、iO
 
 StrongVPN是一款非常成熟的中国VPN软件，官网界面简洁直观。即使你是VPN新手，只需按照以下步骤操作，也能快速上手并使用这款功能强大的大陆VPN软件。
 
-第一步：点击下方链接进入StrongVPN官网，并点击“Start Now”按钮。
+* 第一步：点击下方链接进入StrongVPN官网，并点击“Start Now”按钮。
 
-第二步：选择“Annual Plan”套餐，并点击“SELECT THIS PLAN”按钮。
+* 第二步：选择“Annual Plan”套餐，并点击“SELECT THIS PLAN”按钮。
 
-第三步：输入你的电子邮箱地址，并使用支付宝完成付款。
+* 第三步：输入你的电子邮箱地址，并使用支付宝完成付款。
 
 OK，当完成付款后，你就收到一封确认邮件，邮件中包含你刚刚购买的StrongVPN账号信息、登录链接以及StrongVPN的快速安装指南。
 
