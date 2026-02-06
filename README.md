@@ -1,6 +1,6 @@
 # <p align="center">中国VPN推荐：2026年中国大陆最好用的VPN排行！</p>
 
-<p align="center">最近更新于：2026年2月1日</p>
+<p align="center">最近更新于：2026年2月6日</p>
 
 **重要提示**：本文推荐的中国VPN，主要用于帮助大陆用户翻墙访问Google、Facebook、Telegram、YouTube、Netflix、ChatGPT等海外网站。如果你身在海外，想要从国外翻墙回国，访问腾讯视频、爱奇艺、网易云音乐、QQ音乐、抖音、王者荣耀等国内平台，请参考：<a href="https://github.com/chinawallvpn/vpn-into-china">回国VPN推荐</a>！
 
@@ -143,7 +143,7 @@ ExpressVPN支持多种操作系统，包括Windows、macOS、Android、iOS和Lin
 
 当安装完成后，打开ExpressVPN客户端，使用账号和密码登录。ExpressVPN会根据你的地理位置自动推荐最佳服务器，确保你获得最快的连接速度和最稳定的翻墙体验。ExpressVPN客户端界面简洁直观，中央设有一个大按钮，点击即可快速连接VPN，开始上网。如果需要手动选择服务器，可以进入服务器列表，选择适合中国用户的节点，如香港、新加坡、日本等地。
 
-OK，按照以上步骤操作后，你已经成功购买、下载并安装了ExpressVPN，现在可以随时畅游全球互联网。凭借强大的翻墙能力和出色的连接速度，ExpressVPN一直是许多中国用户的首选翻墙VPN。无论是观看受限的流媒体、访问被屏蔽的网站，还是保护个人隐私，ExpressVPN都能带来很好的体验。如果在使用过程中遇到问题，也可以随时联系ExpressVPN的24小时在线客服，帮助你及时解决各种疑问。若想了解更多详情，请参阅：ExpressVPN怎么样。
+OK，按照以上步骤操作后，你已经成功购买、下载并安装了ExpressVPN，现在可以随时畅游全球互联网。凭借强大的翻墙能力和出色的连接速度，ExpressVPN一直是许多中国用户的首选翻墙VPN。无论是观看受限的流媒体、访问被屏蔽的网站，还是保护个人隐私，ExpressVPN都能带来很好的体验。如果在使用过程中遇到问题，也可以随时联系ExpressVPN的24小时在线客服，帮助你及时解决各种疑问。若想了解更多详情，请参阅：<a href="https://github.com/chinawallvpn/expressvpn">ExpressVPN怎么样</a>。
 
 ### ExpressVPN续费时如何继续享受最新优惠？
 
