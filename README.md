@@ -590,3 +590,16 @@ ProtonVPN是由ProtonMail团队开发的VPN，因提供免费VPN服务而被国�
 根据我多年的翻墙经验，如果你对稳定性和速度有较高要求，且预算充足，ExpressVPN绝对是最佳选择。如果你希望在性能和价格之间取得平衡，StrongVPN也是一个不错的选择。如果预算比较紧张，也可以考虑PureVPN。无论你最终选择哪款中国VPN，我们都建议大家充分利用其退款政策，先试用一个月，看看在你的网络环境下的实际表现，满意后再决定是否继续使用。
 
 此外，我们建议大陆用户至少准备两款中国VPN软件，这样当一款出现问题时，能够及时切换到另一款。请记住，好用的VPN通常价格不低，而便宜的VPN往往体验不佳。在网络安全和隐私保护方面，投资一个可靠的VPN服务绝对是值得的。
+
+## 中国VPN相关的其他文章：
+
+* <a href="https://chinawallvpn.github.io/">科学上网指南</a>：详细介绍如何科学上网，并推荐几款目前市面上最出色的<a href="https://chinawallvpn.github.io/">翻墙VPN</a>和<a href="https://chinawallvpn.github.io/">翻墙软件</a>。
+* <a href="https://github.com/chinawallvpn/vpn-into-china">回国VPN推荐</a>：海外华人如何<a href="https://github.com/chinawallvpn/vpn-into-china">翻墙回国</a>获取大陆IP并访问国内的腾讯视频和网易云音乐等平台。
+* <a href="https://github.com/chinawallvpn/pc-vpn">电脑VPN推荐</a>：详细介绍目前最有效的<a href="https://github.com/chinawallvpn/pc-vpn">电脑翻墙</a>方法，并推荐几款中国最好用的<a href="https://github.com/chinawallvpn/pc-vpn">PC端VPN</a>。
+* <a href="https://github.com/chinawallvpn/android-vpn">安卓VPN推荐</a>：详细介绍多种<a href="https://github.com/chinawallvpn/android-vpn">安卓翻墙</a>方法，并推荐几款最佳<a href="https://github.com/chinawallvpn/android-vpn">手机VPN</a>，让你自由访问海外网站。
+* <a href="https://github.com/chinawallvpn/router-vpn">路由器VPN推荐</a>：详细介绍<a href="https://github.com/chinawallvpn/router-vpn">路由器翻墙</a>的优缺点，以及华为、小米和TP-Link等路由器的翻墙教程。
+* <a href="https://github.com/chinawallvpn/free-vpn">免费VPN推荐</a>：详细解析免费VPN优缺点，并推荐几款中国大陆免费VPN和国外永久免费VPN。
+* <a href="https://github.com/chinawallvpn/expressvpn">ExpressVPN中国评测</a>：详解ExpressVPN怎么样、能在中国使用吗、连不上网怎么办和如何申请退款等。
+* <a href="https://github.com/chinawallvpn/strongvpn">StrongVPN中国评测</a>：详解StrongVPN怎么样、安全吗、在中国还能用吗、连不上怎么办等问题。
+* <a href="https://github.com/chinawallvpn/purevpn">PureVPN中国评测</a>：详解PureVPN怎么样、在中国能用吗、连不上怎么办、可以翻墙回国吗等问题。
+* <a href="https://github.com/chinawallvpn/speedin-vpn">快帆VPN评测</a>：详解快帆VPN好用吗、快帆VPN安全吗、如何使用快帆VPN优惠券和兑换码等问题。
