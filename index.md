@@ -222,6 +222,8 @@ YIY的核心优势在于其庞大的服务器网络和高端的专线配置。�
 
 ![机场梯子推荐三：YIY价格套餐](https://raw.githubusercontent.com/chinawallvpn/chinawallvpn.github.io/refs/heads/main/image/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91-%E6%9C%BA%E5%9C%BA%E6%A2%AF%E5%AD%90%E6%8E%A8%E8%8D%90-YIY-2.png)
 
+<p align="center"><a href="https://wallvpn.com/go/yiy/"><a href="https://wallvpn.com/go/yiy/">立即获取YIY</a></p>
+
 ****
 
 ### 翻墙VPN推荐（四）：<a href="https://wallvpn.com/go/purevpn/">PureVPN(海量节点储备，超高的安全性，2.11美金/月)</a>
@@ -235,6 +237,8 @@ YIY的核心优势在于其庞大的服务器网络和高端的专线配置。�
 在安全和隐私这块，PureVPN也下足了功夫。为了规避数据审查，它将公司总部设在了对隐私保护极度友好的英属维尔京群岛（BVI）。更难得的是，它的“零日志政策”并非只是口头承诺，而是经过了毕马威（KPMG）等顶级第三方机构的多次独立审计。再配合行业标准的AES-256位加密技术、终止开关（Kill Switch）以及分离隧道功能，足以让国内用户安心上网，不用担心真实IP或浏览记录被追踪。
 
 最后在日常使用体验上，PureVPN走的是“极简”路线。它为Windows、MacOS、iOS和Android等主流操作系统都开发了界面直观的专属APP，内置了应对网络审查的混淆功能，新手也能一键快速连接。更划算的是，它一个账号最多允许10台设备同时在线，无论是将自己的手机、电脑、平板全部连上，还是和家人朋友拼车共享，都完全没有压力。
+
+<p align="center"><a href="https://wallvpn.com/go/purevpn/">立即获取PureVPN</a></p>
 
 ****
 
@@ -251,6 +255,8 @@ Surfshark在应对中国网络审查方面有一套聪明的机制。它的客�
 而Surfshark最大的“杀手锏”，莫过于**它支持不限数量的设备同时在线连接**。在如今人均多台电子设备的时代，这个特权非常实用。它为Windows、MacOS、iOS和Android等主流操作系统都提供了简单易用的APP。你只需购买一个账号，就能让全家所有的设备同时实现科学上网，甚至还能和舍友、同事轻松“拼车”。
 
 最后在价格方面，Surfshark的两年期套餐折算下来**每月大约只需1.99美元**，性价比直接拉满。与前面提到的顶级大厂一样，它也标配了24小时全天候在线客服和30天无理由退款保证。如果你手头的设备众多，且平时非常喜欢追看海外高清视频，那Surfshark绝对是一个不容错过的全能型选项。
+
+<p align="center"><a href="https://wallvpn.com/go/surfsharkvpn/">立即获取Surfshark</a></p>
 
 ## 翻墙软件可以用来干什么？
 
