@@ -222,7 +222,7 @@ YIY的核心优势在于其庞大的服务器网络和高端的专线配置。�
 
 ![机场梯子推荐三：YIY价格套餐](https://raw.githubusercontent.com/chinawallvpn/chinawallvpn.github.io/refs/heads/main/image/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91-%E6%9C%BA%E5%9C%BA%E6%A2%AF%E5%AD%90%E6%8E%A8%E8%8D%90-YIY-2.png)
 
-<p align="center"><a href="https://wallvpn.com/go/yiy/"><a href="https://wallvpn.com/go/yiy/">立即获取YIY</a></p>
+<p align="center"><a href="https://wallvpn.com/go/yiy/">立即获取YIY</a></p>
 
 ****
 
