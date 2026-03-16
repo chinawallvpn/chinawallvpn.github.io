@@ -226,11 +226,11 @@ YIY的核心优势在于其庞大的服务器网络和高端的专线配置。�
 
 ****
 
-### 翻墙VPN推荐（四）：<a href="https://wallvpn.com/go/purevpn/">PureVPN(海量节点储备，超高的安全性，2.11美金/月)</a>
+### 翻墙VPN推荐（四）：<a href="https://wallvpn.com/go/purevpn/">PureVPN(海量节点储备，超高的安全性，2.15美金/月)</a>
 
-![翻墙VPN推荐四：PureVPN-海量节点储备，超高的安全性，2.11美金/月](https://raw.githubusercontent.com/chinawallvpn/chinawallvpn.github.io/refs/heads/main/image/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91-%E7%BF%BB%E5%A2%99VPN%E6%8E%A8%E8%8D%90--PureVPN.png)
+![翻墙VPN推荐四：PureVPN-海量节点储备，超高的安全性，2.15美金/月](https://raw.githubusercontent.com/chinawallvpn/chinawallvpn.github.io/refs/heads/main/image/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91-%E7%BF%BB%E5%A2%99VPN%E6%8E%A8%E8%8D%90--PureVPN.png)
 
-如果你在寻找一款兼具“国际大厂背景”和“超高性价比”的翻墙工具，那成立于2007年的PureVPN绝对值得重点关注。它的两年期套餐折算下来**每月大约只需2.11美元**，在国际一线老牌VPN中，这个价格可以说是相当“白菜”了。结合其提供的31天无理由退款保证以及24小时在线客服，用户完全可以零风险地试用，并测试其在国内的真实表现。
+如果你在寻找一款兼具“国际大厂背景”和“超高性价比”的翻墙工具，那成立于2007年的PureVPN绝对值得重点关注。它的两年期套餐折算下来**每月大约只需2.15美元**，在国际一线老牌VPN中，这个价格可以说是相当“白菜”了。结合其提供的31天无理由退款保证以及24小时在线客服，用户完全可以零风险地试用，并测试其在国内的真实表现。
 
 与主打专线的小型机场不同，PureVPN最大的杀手锏是其庞大的服务器储备量。它在全球70多个国家和地区部署了超过6500台服务器。这种海量节点带来的直接好处就是“狡兔三窟”——在中国大陆网络审查收紧的敏感时期，哪怕部分节点被封锁，你依然有大把的备用节点可以随时切换。无论是连接香港、日本等周边低延迟节点查资料，还是跨区解锁Netflix、Disney+等海外流媒体，它都能提供充足的网络带宽。
 
@@ -238,7 +238,7 @@ YIY的核心优势在于其庞大的服务器网络和高端的专线配置。�
 
 最后在日常使用体验上，PureVPN走的是“极简”路线。它为Windows、MacOS、iOS和Android等主流操作系统都开发了界面直观的专属APP，内置了应对网络审查的混淆功能，新手也能一键快速连接。更划算的是，它一个账号最多允许10台设备同时在线，无论是将自己的手机、电脑、平板全部连上，还是和家人朋友拼车共享，都完全没有压力。
 
-<p align="center"><a href="https://wallvpn.com/go/purevpn/">立即获取PureVPN(2.11美金/月)</a></p>
+<p align="center"><a href="https://wallvpn.com/go/purevpn/">立即获取PureVPN(2.15美金/月)</a></p>
 
 ****
 
