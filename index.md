@@ -136,7 +136,7 @@ description: 科学上网指南：2026年最好用的翻墙VPN与机场梯子推
 
 ### 翻墙VPN推荐（一）：<a href="https://wallvpn.com/go/strong-vpn/">StrongVPN(老牌大厂，安全性高，支持支付宝)</a>
 
-![翻墙VPN推荐（一）：StrongVPN(老牌大厂，安全性高，支持支付宝)](https://raw.githubusercontent.com/chinawallvpn/chinawallvpn.github.io/refs/heads/main/image/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91-%E7%BF%BB%E5%A2%99VPN%E6%8E%A8%E8%8D%90-StrongVPN-1.png)
+![翻墙VPN推荐一：StrongVPN-老牌大厂，安全性高，支持支付宝](https://raw.githubusercontent.com/chinawallvpn/chinawallvpn.github.io/refs/heads/main/image/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91-%E7%BF%BB%E5%A2%99VPN%E6%8E%A8%E8%8D%90-StrongVPN-1.png)
 
 **2026年最新更新**：根据我们过去两年的跟踪实测，StrongVPN在中国大陆一直保持着不错的连通率（全年可用率在90%以上）。它内置了专门应对深度包检测的Scramble流量混淆技术，配合OpenVPN或WireGuard协议使用时，能有效绕过防火长城的限制。在每年网络审查最严格的敏感时期，如果出现短暂的连接波动，大家可以随时联系其24小时在线客服获取备用线路和临时解决方案。
 
@@ -188,6 +188,8 @@ StrongVPN的兼容性也非常好，为Windows、MacOS、iOS、Android等主流�
 
 ### 机场梯子推荐（二）：<a href="https://wallvpn.com/go/v2aky/">艾可云(全专线低延迟，解锁能力强，提供无时限流量包)</a>
 
+![机场梯子推荐二：艾可云-全专线低延迟，解锁能力强，提供无时限流量包](https://raw.githubusercontent.com/chinawallvpn/chinawallvpn.github.io/refs/heads/main/image/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91-%E6%9C%BA%E5%9C%BA%E6%A2%AF%E5%AD%90%E6%8E%A8%E8%8D%90-%E8%89%BE%E5%8F%AF%E4%BA%91.png)
+
 艾可云是一款深耕中国本土市场的高性价比机场梯子。跟传统的国外VPN软件相比，它采用了专门针对防火长城优化的代理协议，在中国翻墙非常稳定，连接速度也很快。凭借有保障的连通率和实惠的价格，艾可云在国内用户群体里积累了扎实的口碑，是目前市面上非常活跃的优质机场梯子之一。
 
 艾可云的主要亮点在于其出色的网络连接质量。它采用全专线低延迟节点，最高网络带宽可达1000Mbps。无论是日常刷网页、看高清视频，还是玩一些对延迟要求较高的跨服游戏，艾可云都能提供流畅的网络体验，很少出现卡顿或中途掉线的情况。
@@ -197,6 +199,10 @@ StrongVPN的兼容性也非常好，为Windows、MacOS、iOS、Android等主流�
 客户端支持方面，艾可云为Windows、MacOS、Android等主流操作系统都开发了专属的APP客户端，而且APP界面简单直观，没有任何技术背景的新手也能一键快速连接。至于iOS用户，艾可云官方准备了详细的图文教程，只需搭配Shadowrocket等第三方软件即可顺畅使用。此外，它最多允许5台设备同时在线，足够满足单人多设备或小家庭的日常需求。
 
 最后，价格和支付方式也是艾可云的一大卖点。它支持支付宝付款，购买十分方便，且套餐选择非常丰富。对于日常高频翻墙的用户，可以选择常规的包月套餐（**入门包月仅需32元左右，包含250GB流量**）；对于使用频率不高的用户，艾可云还提供了全网罕见的“无时限”按量计费套餐。目前，艾可云的“无时限”套餐主要有几个热销档位：**42元买断55G流量、75元买断120G流量以及138元买断280G流量**。值得注意的是，**这些“无时限”套餐的流量长期不过期、直到用完为止**，非常适合作为已有主力翻墙VPN用户的防失联备用方案。
+
+![机场梯子推荐二：艾可云价格套餐](https://raw.githubusercontent.com/chinawallvpn/chinawallvpn.github.io/refs/heads/main/image/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91-%E6%9C%BA%E5%9C%BA%E6%A2%AF%E5%AD%90%E6%8E%A8%E8%8D%90-%E8%89%BE%E5%8F%AF%E4%BA%91-2.png)
+
+<p align="center"><a href="https://wallvpn.com/go/v2aky/">立即获取艾可云</a></p>
 
 ****
 
