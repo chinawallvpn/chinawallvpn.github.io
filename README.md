@@ -21,7 +21,7 @@
 
 * 中国VPN推荐（四）：<a href="https://wallvpn.com/go/purevpn/">PureVPN（国外大厂，安全性高，2.15美元/月）</a> - 成立于2007年的PureVPN是一款性价比相当高的国外老牌VPN 。它在全球65个国家80多个地区部署了超过6000台高速服务器，解锁能力十分强大 。PureVPN对隐私保护相当重视，首创了“随时无通知审计(Always-On Audit)”机制，有效打消了用户对数据安全的顾虑 。它支持10台设备同时在线，**提供额外的端口转发和独立IP附加服务**，非常适合重度BT下载和需要防关联的跨境电商用户 。PureVPN提供的2年套餐每月2.15美元，同时提供24小时在线客服以及比同行多一天的31天无理由退款保证 。
 
-* 中国VPN推荐（五）：<a href="https://wallvpn.com/go/surfsharkvpn/">Surfshark（安全可靠，支持无限设备同时连接）</a> - Surfshark是VPN行业内增长迅速的国外独角兽品牌，其最大的核心卖点就是“**无限设备同时连接**”，设备兼容性表现相当好 。Surfshark不仅内置了CleanWeb广告拦截以及Alternative ID替代身份生成器，还专为受限地区设计了NoBorders无边界模式，并在后台自动开启Camouflage混淆模式，因此它在国内的翻墙体验也还算比较稳定。Surfshark的2年套餐每月仅需1.99美元，并提供24小时在线客服和30天退款保证，是多设备用户和流媒体发烧友的优质选择 。
+* 中国VPN推荐（五）：<a href="https://wallvpn.com/go/surfsharkvpn/">Surfshark（安全可靠，支持无限设备同时连接）</a> - Surfshark是VPN行业内增长迅速的国外独角兽品牌，其最大的核心卖点就是“**支持无限设备同时连接**”，设备兼容性表现相当好 。Surfshark不仅内置了CleanWeb广告拦截以及Alternative ID替代身份生成器，还专为受限地区设计了NoBorders无边界模式，并在后台自动开启Camouflage混淆模式，因此它在国内的翻墙体验也还算比较稳定。Surfshark的2年套餐每月仅需1.99美元，并提供24小时在线客服和30天退款保证，是多设备用户和流媒体发烧友的优质选择 。
 
 </blockquote>
 
